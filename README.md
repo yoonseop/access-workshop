@@ -23,8 +23,7 @@
 
 8. Now, you need to follow the workshop instruction. 
 
-## NOTICE!! You already got workshop account, 
-
+## NOTICE!! You already got workshop account,    
 ## so please SKIP "Follow the steps below to gain access to your Workshop Studio AWS account." in Workshop00.
 
 ![Screen Shot 2022-11-30 at 4.36.11 PM](./images/instruction.png)
